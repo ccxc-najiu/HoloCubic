@@ -1,0 +1,15 @@
+*************************************************************
+FileName = ExtendBoard.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom4
+      File : ExtendBoard.GBL
+
+    Adding Layer      : Bottom4
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+

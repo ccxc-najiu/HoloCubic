@@ -1,4 +1,4 @@
-![](/5.Docs/Images/Holo1.jpg)
+![](./5.Docs/Images/Holo1.jpg)
 
 # HoloCubic--多功能透明显示屏桌面站
 
@@ -27,7 +27,7 @@
 
 * **Naive Version** ：即视频中出现的版本，比较简约（因为临时赶工设计的），最好使用光固化3D打印加工
 
-  ![](/5.Docs/Images/Holo3.png)
+  ![](./5.Docs/Images/Holo3.png)
 
 * **Bilibili Version** ：视频中后面出现的B站百大奖杯形式的外壳结构，适配`Naive Version`的PCB， **属于娱乐性质，非百大UP不建议采用**。
 
